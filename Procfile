@@ -1,1 +1,1 @@
-web: voila VersionGit.ipynb --port=$PORT --no-browser --enable_nbextensions=True --template=gridstack
+web: voila VersionGit.ipynb --port=$PORT --no-browser
