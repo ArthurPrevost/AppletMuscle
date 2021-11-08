@@ -12,7 +12,7 @@ jupyter-console==6.1.0
 jupyter-core==4.6.1
 jupyter-server==0.1.1
 jupyter-telemetry==0.0.5
-jupyterhub==1.1.0
+jupyterhub==1.5.0
 jupyterlab==1.2.6
 jupyterlab-pygments==0.1.1
 jupyterlab-server==1.0.6
